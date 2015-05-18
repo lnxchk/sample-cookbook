@@ -1,6 +1,6 @@
 sample Cookbook
 ===============
-TODO: Enter the cookbook description here.
+This is a sample cookbook for testing Delivery open source tools on jenkins
 
 e.g.
 This cookbook makes your favorite breakfast sandwich.
