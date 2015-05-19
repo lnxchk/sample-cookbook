@@ -1,7 +1,0 @@
-enterprise = "bar"
-git_port = "8989"
-organization = "baz"
-pipeline = "master"
-server = "foo"
-user = "jenkins"
-
