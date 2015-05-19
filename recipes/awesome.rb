@@ -1,7 +1,6 @@
 log "this is awesome"
 
 directory "/tmp/awesome" do
-  punter "root"
+  owner "root"
   group "root"
 end
-
