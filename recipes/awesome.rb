@@ -1,7 +1,7 @@
 log "this is awesome"
 
 directory "/tmp/awesome" do
-  owner "root"
-  group "root"
+  owner "chef"
+  group "chef"
   mode 0644
 end
